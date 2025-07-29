@@ -1,0 +1,66 @@
+Id,Name,SpriteName,PricePurchase,PriceSell
+100,Apple,Apple_0,10,6
+101,Flower,Flower_3,20,12
+102,Bread,RPGgame_21,30,18
+103,Banana,RPGgame_12,10,6
+104,Carrot,RPGgame_15,10,6
+105,Mango,RPGgame_10,10,6
+106,Strawberry,RPGgame_8,10,6
+107,Cheese,RPGgame_23,30,18
+108,Mushroom,RPGgame_19,10,6
+109,Cake,RPGgame_22,50,30
+110,Fish,RPGgame_26,30,18
+111,Beefsteak,RPGgame_27,50,30
+200,Heal Potion,RPGgame_28,1000,600
+201,Mana Potion,RPGgame_31,1500,900
+202,Cure Potion,RPGgame_33,500,300
+300,Iron Ore,Ores_9,100,60
+301,Copper Ore,Ores_0,50,30
+302,Gold Ore,Ores_2,150,90
+303,Diamond Ore,Ores_3,1000,600
+304,Iron,Ores_17,1000,600
+305,Copper,Ores_16,500,300
+306,Gold,Ores_18,1500,900
+307,Diamond,Ores_15,3000,1800
+308,Ruby,RPGgame_211,5000,3000
+309,Sapphire,RPGgame_212,5000,3000
+310,Amethyst,RPGgame_213,5000,3000
+400,Pickaxe,Tools_0,3000,1800
+401,Axe,Tools_1,3000,1800
+402,Sword,RPGgame_70,5000,3000
+403,Dagger,RPGgame_84,3000,1800
+404,Gauntlet,RPGgame_98,3000,1800
+405,Bow,RPGgame_154,2000,1200
+406,Battle Axe,RPGgame_106,5000,3000
+407,Spear,RPGgame_106,5000,3000
+408,Ruby Staff,RPGgame_133,10000,6000
+409,Sapphire Staff,RPGgame_134,10000,6000
+410,Noel Staff,RPGgame_136,1000,600
+411,Holy Staff,RPGgame_137,5000,3000
+412,Gun,RPGgame_105,15000,9000
+413,Shield,RPGgame_170,3000,1800
+500,Arrow,RPGgame_106,30,18
+501,Kunai,RPGgame_106,100,60
+502,Shuriken,RPGgame_109,100,60
+503,Big Shuriken,RPGgame_110,150,90
+504,Ultra Shuriken,RPGgame_110,200,120
+505,Triple Arrow,RPGgame_388,90,54
+506,Blast Arrow,RPGgame_383,200,120
+507,Freeze Arrow,RPGgame_384,200,120
+508,Poison Arrow,RPGgame_389,100,60
+509,Target Arrow,RPGgame_382,150,90
+510,Lightning Arrow,RPGgame_380,200,120
+511,Pierce Arrow,RPGgame_378,100,60
+700,Armor,RPGgame_185,5000,3000
+701,Boot,RPGgame_198,3000,1800
+702,Helmet,RPGgame_194,4000,2400
+703,Amethyst Hat,RPGgame_185,10000,6000
+704,Witch Hat,RPGgame_191,15000,9000
+705,Ruby Necklace,RPGgame_272,10000,6000
+706,Sapphire Wristlet,RPGgame_273,10000,6000
+707,Ring,RPGgame_271,3000,1800
+800,Mirror,RPGgame_224,500,300
+801,Book,RPGgame_251,100,60
+802,Map,RPGgame_250,500,300
+803,Scroll,RPGgame_248,1000,600
+999,Coin,Coin_0,0,0
