@@ -22,28 +22,23 @@ public class GameController : MonoBehaviour
         _ui.CloseAllPanels();
         _ui.OpenPlayerInventory();
     }
-
     public void OnClickShopButton()
     {
         _ui.CloseAllPanels();
         _ui.OpenShop();
     }
-
     public void OnClickBackFromShopButton()
     {
         _ui.CloseAllPanels();
         _ui.BackFormShop();
         _ui.OpenMenu();
     }
-
     public void OnClickBackFromPlayerInventoryButton()
     {
         _ui.CloseAllPanels();
         _ui.BackFormInventory();
         _ui.OpenMenu();
     }
-
-
     void Start()
     {
         _ui.CloseAllPanels();
@@ -53,8 +48,6 @@ public class GameController : MonoBehaviour
         ShopManagers.Instance.ShopInitialize();
         ShopManagers.Instance.ClassifyItems();
     }
-
-    
     void Update()
     {
         
