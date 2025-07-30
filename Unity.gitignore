@@ -6,7 +6,13 @@
 .utmp/
 =======
 # Unity generated folders
+<<<<<<< HEAD
 >>>>>>> e8b5ca32cc43ca73092b77de54db94da65f48fa5
+=======
+/Library/
+/Temp/
+/Library/PackageCache/
+>>>>>>> b17e65b824d0118da2200d46d0deca3b7e6c2d8b
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
